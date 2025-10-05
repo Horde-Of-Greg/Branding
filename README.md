@@ -5,14 +5,14 @@ All the images and vector graphics here are free to be used in any way you want.
 # What this repo contains 
 
 ## [HOG Logo](https://github.com/Horde-Of-Greg/Branding/tree/master/HOG)
-<p align="center"><img src="https://github.com/Horde-Of-Greg/Branding/blob/master/HOG/logo.svg" alt="HOGifactory Logo" width="256"></p>
+<p align="center"><img src="https://github.com/Horde-Of-Greg/Branding/blob/master/HOG/logo.png" alt="HOGifactory Logo" height="256"></p>
 
 ### Credits
 - SVG: D-Alessian
 - All PNGs: D-Alessian
 
 ## [HOGifactory Logo](https://github.com/Horde-Of-Greg/Branding/tree/master/HOGifactory)
-<p align="center"><img src="https://github.com/Horde-Of-Greg/Branding/blob/master/HOGifactory/logo.svg" alt="HOGifactory Logo" width="384"></p>
+<p align="center"><img src="https://github.com/Horde-Of-Greg/Branding/blob/master/HOGifactory/logo-white.png" alt="HOGifactory Logo" height="256"></p>
 
 ### Credits
 - SVG: D-Alessian

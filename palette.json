@@ -1,0 +1,20 @@
+[
+  { "name": "foreground", "color": "#d7d7d7" },
+
+  { "name": "background0", "color": "#1a1a1a" },
+  { "name": "background1", "color": "#272727" },
+  { "name": "background2", "color": "#373737" },
+  { "name": "background3", "color": "#474747" },
+  { "name": "background4", "color": "#676767" },
+  { "name": "background5", "color": "#ae1633" },
+  { "name": "background6", "color": "#e89089" },
+
+  { "name": "statusline1", "color": "#44aa11" },
+  { "name": "statusline2", "color": "#d7d7d7" },
+  { "name": "statusline3", "color": "#ae1633" },
+
+  { "name": "red0", "color": "#e89089" },
+  { "name": "red1", "color": "#ae1633" },
+  { "name": "green", "color": "#44aa11" },
+  { "name": "purple", "color": "#a111ab" }
+]

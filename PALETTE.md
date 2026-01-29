@@ -1,7 +1,7 @@
 # HOG Color Scheme
 
 | Name         | Hex       | Preview                                   |
-| ----         | ---       | -------                                   |
+| ----         | ---       | :-----:                                   |
 | Foreground   | `#d7d7d7` | ![foreground](.swatches/foreground.svg)   |
 | Background 0 | `#1a1a1a` | ![background0](.swatches/background0.svg) |
 | Background 1 | `#272727` | ![background1](.swatches/background1.svg) |

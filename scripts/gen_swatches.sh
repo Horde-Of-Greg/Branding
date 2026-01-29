@@ -16,7 +16,7 @@ jq -c '.[]' "$palette" | while read i; do
     [[ "$color_hex" == \#* ]] || color_hex="#$color_hex"
 
     svg_out_path="${out_dir}/${color_name}.svg"
-    svg_template_path="${proj_dir}/swatch-template.svg"
+    svg_template_path="${proj_dir}/.templates/swatch-template.svg"
 
     cat "$svg_template_path" | sed -e "s/#ffffff/${color_hex}/g" > "$svg_out_path"
 done
